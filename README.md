@@ -54,8 +54,9 @@ generate_image("A Horse", image_gen_model)
 ```
 
 ## Demo & Resources
-- **Live Demo:** [Insert Demo URL]
-- **GitHub Repository:** [Insert GitHub URL]
+- Live Demo: [https://colab.research.google.com/drive/1SFBNPWpIwZLrK2VtVqUE9aBRwQWs4cR8?usp=sharing]
+- Presentation Link : [https://dituni-my.sharepoint.com/:p:/g/personal/1000017330_dit_edu_in/EYcDnEwp4WlKkhP7abyYKZ0BnmCdhkjhADCyUpfTKSbUDg?e=XZkoK6]
+- for the best and fast result use kernel(Hardware Connector - T4 GPU
 
 ## Future Enhancements
 - Improve prompt generation using larger language models.
